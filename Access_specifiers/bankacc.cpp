@@ -19,7 +19,7 @@ class Bank_Acoount{
 
 int main(){
     Bank_Acoount s1;
-    s1.acc_no=066;
+    s1.acc_no=66;
     s1.customer_name="Raj";
     s1.balance=25000;
     s1.display();
